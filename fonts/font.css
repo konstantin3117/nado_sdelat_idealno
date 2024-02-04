@@ -4,8 +4,8 @@
     font-display: swap;
     src: local('Raleway-Regular'),
     local('Raleway_Regular'),
-    url("/fonts/Raleway-Regular.woff2") format('woff2'),
-    url("/fonts/Raleway-Regular.woff") format('woff');
+    url("./fonts/Raleway-Regular.woff2") format('woff2'),
+    url("./fonts/Raleway-Regular.woff") format('woff');
     }
 
 @font-face {
@@ -14,6 +14,6 @@
     font-display: swap;
     src: local('Raleway-ExtraBold'),
     local('Raleway_Regular'),
-    url("/fonts/Raleway-ExtraBold.woff2") format('woff2'),
-    url("/fonts/Raleway-ExtraBold.woff") format('woff');
+    url("./fonts/Raleway-ExtraBold.woff2") format('woff2'),
+    url("./fonts/Raleway-ExtraBold.woff") format('woff');
     }
