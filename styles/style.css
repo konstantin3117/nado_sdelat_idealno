@@ -17,6 +17,7 @@ body {
 }
 
 .title {
+    font-family: 'Raleway' sans-serif;
     font-weight: 800;
     font-size: 116px;
     text-transform: uppercase;
@@ -29,10 +30,12 @@ body {
 }
 
 .title__title-third::after {
+    font-family: 'Raleway' sans-serif;
     content: "*";
 }
 
 .title:hover::after {
+    font-family: 'Raleway' sans-serif;
     font-size: 35px;
     font-weight: 400;
     text-transform: none;
