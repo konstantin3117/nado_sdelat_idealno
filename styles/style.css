@@ -46,8 +46,6 @@ body {
     white-space: pre;
     position: absolute;
     top: 182px;
-    right: 22px;
-    left: 836px;
 }
 
 .title:hover::before {
