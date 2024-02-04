@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Raleway';
+    font-family: 'Raleway' sans-serif;
     font-weight: 400;
     font-display: swap;
     src: local('Raleway-Regular'),
@@ -9,7 +9,7 @@
     }
 
 @font-face {
-    font-family: 'Raleway';
+    font-family: 'Raleway' sans-serif;
     font-weight: 800;
     font-display: swap;
     src: local('Raleway-ExtraBold'),
