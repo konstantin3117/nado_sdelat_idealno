@@ -26,7 +26,6 @@ body {
     align-items: center;
     margin-top: 60px;
     z-index: 3;
-    background-color: gray;
 }
 
 .title__title-third::after {
