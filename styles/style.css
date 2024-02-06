@@ -6,7 +6,7 @@ html {
   position: relative;
   display: grid;
   justify-items: center;
-  min-width: 800px;
+  min-width: 801px;
   height: 100%;
   font-family: Raleway, sans-serif;
 }
