@@ -37,8 +37,7 @@ body {
   z-index: 2;
   text-align: center;
   max-width: 739px;
-  letter-spacing: 3.5%;
-  line-height: 136px;
+  letter-spacing: 4.06px;
 }
 
 body:hover::after {
