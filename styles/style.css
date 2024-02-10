@@ -33,6 +33,7 @@ body {
   font-size: 116px;
   text-transform: uppercase;
   z-index: 2;
+  text-align: center;
 }
 
 body:hover::after {
