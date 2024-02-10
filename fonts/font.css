@@ -1,5 +1,5 @@
 @font-face {
-  font-family: Raleway;
+  font-family: 'Raleway';
   src:
     url(./Raleway/Raleway-Regular.woff2) format('woff2'),
     url(./Raleway/Raleway-Regular.woff) format('woff');
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-  font-family: Raleway;
+  font-family: 'Raleway';
   src:
     url(./Raleway/Raleway-ExtraBold.woff2) format('woff2'),
     url(./Raleway/Raleway-ExtraBold.woff) format('woff');
