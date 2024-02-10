@@ -3,7 +3,7 @@ body {
   font-family: 'Raleway';
   position: relative;
   display: flex;
-  padding: 60px 430px 430px 430px;
+  justify-content: center;
 }
 
 .video__video-background {
@@ -33,7 +33,6 @@ body {
   font-size: 116px;
   text-transform: uppercase;
   z-index: 2;
-  text-align: center;
 }
 
 body:hover::after {
