@@ -36,8 +36,8 @@ body {
   text-transform: uppercase;
   z-index: 2;
   text-align: center;
-  max-width: 739px;
-  letter-spacing: 3px;
+  /*max-width: 739px;*/
+  letter-spacing: 5px;
 }
 
 body:hover::after {
