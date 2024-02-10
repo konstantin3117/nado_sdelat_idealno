@@ -34,6 +34,7 @@ body {
   font-size: 116px;
   text-transform: uppercase;
   z-index: 2;
+  letter-spacing: 3px;
 }
 
 body:hover::after {
